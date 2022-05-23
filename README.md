@@ -2,4 +2,4 @@
 
 ## Purpose: host Personas CX team on-call log images
 
-Hosted on http://personas-cx-on-call-logs.github.io
+Public URL: https://mugelstad.github.io/personas-cx-on-call-logs.github.io/
